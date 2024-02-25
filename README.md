@@ -1,1 +1,1 @@
-# imdb-clone-frontend
+# imdb-clone-frontend ( react )
